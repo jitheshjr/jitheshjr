@@ -35,7 +35,6 @@ From creating **dynamic front-end experiences** and **scalable back-end systems*
 ## 📌 Featured Projects
 
 - **[Thyroid Cancer Risk Prediction](#)** – Cleaned a medical dataset, trained ML classifiers, and built an interactive **Streamlit app** for risk level prediction.  
-- **[Student Management System](#)** – Full-stack Django + React application for managing student data and attendance.  
 - **[Hostel Management System](#)** – Multi-user web app with role-based authentication for managing hostel operations.  
 
 ---
