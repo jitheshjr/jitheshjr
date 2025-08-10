@@ -34,9 +34,10 @@ From creating **dynamic front-end experiences** and **scalable back-end systems*
 
 ## 📌 Featured Projects
 
-- **[Thyroid Cancer Risk Prediction](#)** – Cleaned a medical dataset, trained ML classifiers, and built an interactive **Streamlit app** for risk level prediction.  
-- **[Hostel Management System](#)** – Multi-user web app with role-based authentication for managing hostel operations.  
-
+- **[Thyroid Cancer Risk Prediction](https://github.com/jitheshjr/Hostel_Manangement_System)** – Cleaned a medical dataset, trained ML classifiers, and built an interactive **Streamlit app** for risk level prediction.  
+- **[Hostel Management System](https://github.com/jitheshjr/Thyroid_cancer_predictor)** – Multi-user web app with role-based authentication for managing hostel operations.  
+- **[BPL](https://github.com/jitheshjr/bpl)** – Django-based web application for managing a **football auction system**, enabling team bidding and player allocation.
+  
 ---
 
 ## 📊 GitHub Stats
@@ -49,8 +50,8 @@ From creating **dynamic front-end experiences** and **scalable back-end systems*
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitheshjr/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plkjithu@gmail.com)
 
 ---
 
