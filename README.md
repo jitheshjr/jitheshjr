@@ -37,14 +37,6 @@ From creating **dynamic front-end experiences** and **scalable back-end systems*
 - **[Thyroid Cancer Risk Prediction](https://github.com/jitheshjr/Thyroid_cancer_predictor)** – Cleaned a medical dataset, trained ML classifiers, and built an interactive **Streamlit app** for risk level prediction.  
 - **[Hostel Management System](https://github.com/jitheshjr/Hostel_Manangement_System)** – Multi-user web app with role-based authentication for managing hostel operations.  
 - **[BPL](https://github.com/jitheshjr/bpl)** – Django-based web application for managing a **football auction system**, enabling team bidding and player allocation.
-  
----
-
-## 📊 GitHub Stats
-
-![Jithu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitheshjr&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitheshjr&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=jitheshjr&theme=tokyonight)
 
 ---
 
